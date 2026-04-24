@@ -7,3 +7,8 @@ The 8x8 Digit Recognition Neural Network Accelerator is a custom hardware infere
 ### [Hardware Accelerated Pong](https://github.com/Purdue-SoCET/intro2_S2026_team08_tt/tree/work)
 
 coming soon
+
+### [Systolic Array](https://github.com/liao246/Systolic-Array)
+
+coming soon
+
