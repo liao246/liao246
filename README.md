@@ -6,7 +6,7 @@ The 8x8 Digit Recognition Neural Network Accelerator is a custom hardware infere
 
 ### [Hardware Accelerated Pong](https://github.com/liao246/Hardware-Pong)
 
-coming soon
+Hardware Pong is a custom ASIC implementation of the classic arcade game, engineered from the ground up to operate within a strict 1,000 standard cell limit. The project spans the entire hardware design lifecycle, moving from high-level micro-architectural specifications to iCE40 FPGA prototyping, and culminating in a fully verified OpenLane RTL-to-GDSII tapeout. To meet stringent resource constraints without sacrificing visual fidelity, the design features a custom physics engine with dynamic speed scaling and purely combinational, coordinate-based VGA rendering. This completely eliminates the need for a memory-intensive frame buffer while maintaining responsive, real-time gameplay.
 
 ### [Systolic Array](https://github.com/liao246/Systolic-Array)
 
